@@ -23,8 +23,8 @@ class NumberTranslatorImpl(private val vocabularyResolver: VocabularyResolver) :
             return vocabulary.tensVocabulary[number]!!
         } else {
             val tensDegree = vocabulary.tensVocabulary[number - number % 10]!!
-            val onesDegree = getDigitAsWord(number % 10, sex, locale)
-            "$tensDegree $onesDegree"
+            val onesDegree = if (number % 10 == 0) "" else getDigitAsWord(number % 10, sex, locale)
+            "$tensDegree${if (onesDegree.isEmpty()) "" else " $onesDegree"}"
         }
     }
 

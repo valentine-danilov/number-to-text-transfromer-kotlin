@@ -9,12 +9,17 @@ import org.springframework.web.bind.annotation.RestControllerAdvice
 class NumberToTextTransformerControllerAdvice {
 
     @ExceptionHandler(value = [UnsupportedLocaleException::class])
-    fun handleIllegalArgumentException(exception: UnsupportedLocaleException): ResponseEntity<ErrorResponse> {
+    fun handleUnsupportedLocaleException(exception: UnsupportedLocaleException): ResponseEntity<ErrorResponse> {
         return ResponseEntity.badRequest().body(ErrorResponse(exception.message ?: "Unknown locale", 400))
     }
 
     @ExceptionHandler(value = [TransformException::class])
     fun handleTransformException(exception: TransformException): ResponseEntity<ErrorResponse> {
         return ResponseEntity.badRequest().body(ErrorResponse(exception.message ?: "Invalid number format", 400))
+    }
+
+    @ExceptionHandler(value = [IllegalArgumentException::class])
+    fun handleUnsupportedLocaleException(exception: IllegalArgumentException): ResponseEntity<ErrorResponse> {
+        return ResponseEntity.badRequest().body(ErrorResponse(exception.message ?: "Illegal argument exception", 400))
     }
 }
