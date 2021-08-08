@@ -1,0 +1,170 @@
+[
+  {
+    "inputNumber": "100",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "сто"
+  },
+  {
+    "inputNumber": "101",
+    "locale": "ru",
+    "sex": "FEMALE",
+    "expected": "сто одна"
+  },
+  {
+    "inputNumber": "111",
+    "locale": "ru",
+    "sex": "FEMALE",
+    "expected": "сто одиннадцать"
+  },
+  {
+    "inputNumber": "199",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "сто девяносто девять"
+  },
+  {
+    "inputNumber": "200",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "двести"
+  },
+  {
+    "inputNumber": "222",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "двести двадцать два"
+  },
+  {
+    "inputNumber": "201",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "двести один"
+  },
+  {
+    "inputNumber": "300",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "отсоси у тракториста"
+  },
+  {
+    "inputNumber": "303",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "отсоси у тракториста три"
+  },
+  {
+    "inputNumber": "333",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "отсоси у тракториста тридцать три"
+  },
+  {
+    "inputNumber": "400",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "четыреста"
+  },
+  {
+    "inputNumber": "404",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "четыреста четыре"
+  },
+  {
+    "inputNumber": "456",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "четыреста пятьдесят шесть"
+  },
+  {
+    "inputNumber": "500",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "пятьсот"
+  },
+  {
+    "inputNumber": "505",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "пятьсот пять"
+  },
+  {
+    "inputNumber": "575",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "пятьсот семьдесят пять"
+  },
+  {
+    "inputNumber": "600",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "шестьсот"
+  },
+  {
+    "inputNumber": "606",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "шестьсот шесть"
+  },
+  {
+    "inputNumber": "698",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "шестьсот девяносто восемь"
+  },
+  {
+    "inputNumber": "700",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "семьсот"
+  },
+  {
+    "inputNumber": "707",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "семьсот семь"
+  },
+  {
+    "inputNumber": "777",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "семьсот семьдесят семь"
+  },
+  {
+    "inputNumber": "800",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "восемьсот"
+  },
+  {
+    "inputNumber": "808",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "восемьсот восемь"
+  },
+  {
+    "inputNumber": "811",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "восемьсот одиннадцать"
+  },
+  {
+    "inputNumber": "900",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "девятьсот"
+  },
+  {
+    "inputNumber": "901",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "девятьсот один"
+  },
+  {
+    "inputNumber": "912",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "девятьсот двенадцать"
+  }
+]

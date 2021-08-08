@@ -1,0 +1,56 @@
+[
+  {
+    "lastDigit": 1,
+    "degreeLength": 3,
+    "locale": "ru",
+    "expected": "тысяча"
+  },
+  {
+    "lastDigit": 3,
+    "degreeLength": 3,
+    "locale": "ru",
+    "expected": "тысячи"
+  },
+  {
+    "lastDigit": 5,
+    "degreeLength": 3,
+    "locale": "ru",
+    "expected": "тысяч"
+  },
+  {
+    "lastDigit": 1,
+    "degreeLength": 6,
+    "locale": "ru",
+    "expected": "миллион"
+  },
+  {
+    "lastDigit": 3,
+    "degreeLength": 6,
+    "locale": "ru",
+    "expected": "миллиона"
+  },
+  {
+    "lastDigit": 5,
+    "degreeLength": 6,
+    "locale": "ru",
+    "expected": "миллионов"
+  },
+  {
+    "lastDigit": 1,
+    "degreeLength": 9,
+    "locale": "ru",
+    "expected": "миллиард"
+  },
+  {
+    "lastDigit": 3,
+    "degreeLength": 9,
+    "locale": "ru",
+    "expected": "миллиарда"
+  },
+  {
+    "lastDigit": 5,
+    "degreeLength": 9,
+    "locale": "ru",
+    "expected": "миллиардов"
+  }
+]

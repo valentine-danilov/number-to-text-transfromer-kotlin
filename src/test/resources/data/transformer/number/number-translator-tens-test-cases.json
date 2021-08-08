@@ -1,0 +1,110 @@
+[
+  {
+    "inputNumber": "11",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "одиннадцать"
+  },
+  {
+    "inputNumber": "12",
+    "locale": "ru",
+    "sex": "FEMALE",
+    "expected": "двенадцать"
+  },
+  {
+    "inputNumber": "13",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "тринадцать"
+  },
+  {
+    "inputNumber": "14",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "четырнадцать"
+  },
+  {
+    "inputNumber": "15",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "пятнадцать"
+  },
+  {
+    "inputNumber": "16",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "шестнадцать"
+  },
+  {
+    "inputNumber": "17",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "семнадцать"
+  },
+  {
+    "inputNumber": "18",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "восемнадцать"
+  },
+  {
+    "inputNumber": "19",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "девятнадцать"
+  },
+  {
+    "inputNumber": "20",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "двадцать"
+  },
+  {
+    "inputNumber": "28",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "двадцать восемь"
+  },
+  {
+    "inputNumber": "31",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "тридцать один"
+  },
+  {
+    "inputNumber": "42",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "сорок два"
+  },
+  {
+    "inputNumber": "53",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "пятьдесят три"
+  },
+  {
+    "inputNumber": "64",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "шестьдесят четыре"
+  },
+  {
+    "inputNumber": "75",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "семьдесят пять"
+  },
+  {
+    "inputNumber": "86",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "восемьдесят шесть"
+  },
+  {
+    "inputNumber": "97",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "девяносто семь"
+  }
+]

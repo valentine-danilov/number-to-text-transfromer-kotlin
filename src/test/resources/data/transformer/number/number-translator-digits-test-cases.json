@@ -1,0 +1,56 @@
+[
+  {
+    "inputNumber": "1",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "один"
+  },
+  {
+    "inputNumber": "2",
+    "locale": "ru",
+    "sex": "FEMALE",
+    "expected": "две"
+  },
+  {
+    "inputNumber": "3",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "три"
+  },
+  {
+    "inputNumber": "4",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "четыре"
+  },
+  {
+    "inputNumber": "5",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "пять"
+  },
+  {
+    "inputNumber": "6",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "шесть"
+  },
+  {
+    "inputNumber": "7",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "семь"
+  },
+  {
+    "inputNumber": "8",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "восемь"
+  },
+  {
+    "inputNumber": "9",
+    "locale": "ru",
+    "sex": "MALE",
+    "expected": "девять"
+  }
+]

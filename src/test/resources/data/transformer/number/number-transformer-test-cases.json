@@ -1,0 +1,77 @@
+[
+  {
+    "inputNumber": "111111",
+    "locale": "ru",
+    "expected": "сто одиннадцать тысяч сто одиннадцать"
+  },
+  {
+    "inputNumber": "1100000",
+    "locale": "ru",
+    "expected": "один миллион сто тысяч"
+  },
+  {
+    "inputNumber": "11000000",
+    "locale": "ru",
+    "expected": "одиннадцать миллионов"
+  },
+  {
+    "inputNumber": "14000000",
+    "locale": "ru",
+    "expected": "четырнадцать миллионов"
+  },
+  {
+    "inputNumber": "11000000000",
+    "locale": "ru",
+    "expected": "одиннадцать миллиардов"
+  },
+  {
+    "inputNumber": "14000000000",
+    "locale": "ru",
+    "expected": "четырнадцать миллиардов"
+  },
+  {
+    "inputNumber": "1001000",
+    "locale": "ru",
+    "expected": "один миллион одна тысяча"
+  },
+  {
+    "inputNumber": "0",
+    "locale": "ru",
+    "expected": "ноль"
+  },
+  {
+    "inputNumber": "1000000",
+    "locale": "ru",
+    "expected": "один миллион"
+  },
+  {
+    "inputNumber": "17000001",
+    "locale": "ru",
+    "expected": "семнадцать миллионов один"
+  },
+  {
+    "inputNumber": "17000011",
+    "locale": "ru",
+    "expected": "семнадцать миллионов одиннадцать"
+  },
+  {
+    "inputNumber": "17000111",
+    "locale": "ru",
+    "expected": "семнадцать миллионов сто одиннадцать"
+  },
+  {
+    "inputNumber": "17001212",
+    "locale": "ru",
+    "expected": "семнадцать миллионов одна тысяча двести двенадцать"
+  },
+  {
+    "inputNumber": "17031212",
+    "locale": "ru",
+    "expected": "семнадцать миллионов тридцать одна тысяча двести двенадцать"
+  },
+  {
+    "inputNumber": "17531212",
+    "locale": "ru",
+    "expected": "семнадцать миллионов пятьсот тридцать одна тысяча двести двенадцать"
+  }
+]
